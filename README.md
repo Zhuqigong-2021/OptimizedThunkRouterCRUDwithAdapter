@@ -1,0 +1,2 @@
+# OptimizedThunkRouterCRUDwithAdapter
+Created with CodeSandbox
